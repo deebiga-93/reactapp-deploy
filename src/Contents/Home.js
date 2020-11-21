@@ -10,7 +10,7 @@ class Home extends Component {
             Full STACK DEVELOPER</b>
         </p>
 </h1>
-<script src ="./images/download.png" alt="download"></script>
+
 
 </div>
 )
